@@ -1,11 +1,7 @@
-## Hi there guest 👋, This is Kirill Shirokov
+## Hi, This is Kirill Shirokov
 
-- 👨🏻 Backend developer
-- 🐍 Captured by Python
-- 👀 Interested in everything new
-- 📖 Always studying
-- 💎 I love to create useful software 
-- ⚡ Looking for new friends 
+-  I,m Backend developer
+
 
 ***
 
